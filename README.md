@@ -1,2 +1,2 @@
 # FoxTeamProject
-A repository for the emerging software engineering practices team project
+Team Members: Kim Hertz (Scrum Master), Roberto Santiago (Developer), Robert Hennings (QA), Raghuram Banda (Developer), Zachary Reece (Product Owner)
