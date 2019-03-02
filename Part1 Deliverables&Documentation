@@ -2,9 +2,14 @@
 
 #Product Backlog URL: https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP
 
-#Product vision: "To enhance the quality of the multiplayer gaming experience and player satisfaction by matchmaking players
+#Product vision (near): "To provide a minimal viable product that allows the user the experience of enhanced matchmaking while
+also giving them the ability to create like-minded player groups."
+
+#Product vision (far): "To enhance the quality of the multiplayer gaming experience and player satisfaction by matchmaking players
 that not only share similar skill levels but also personal preferences and positive personality traits with the use of 
 skill levels and behavior based ranking and matchmaking system."
+
+Stakeholder: Rachel Foster, game developers, gamers (users), gaming platforms (Steam, etc. for design consultation)
 
 #Product Backlog Ordering: We have ordered the product backlog in based on how we have agreed upon as a team the needs to 
 build the overall software system. It begins by completing the environment setups for development and from there, it flows 
