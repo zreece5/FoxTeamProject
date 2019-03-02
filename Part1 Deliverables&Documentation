@@ -1,0 +1,16 @@
+#This document includes: Product Backlog URL, Product Vision, Product Backlog Ordering Explanation, and our Definition of Ready
+
+#Product Backlog URL: https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP
+
+#Product vision: "To enhance the quality of the multiplayer gaming experience and player satisfaction by matchmaking players
+that not only share similar skill levels but also personal preferences and positive personality traits with the use of 
+skill levels and behavior based ranking and matchmaking system."
+
+#Product Backlog Ordering: We have ordered the product backlog in based on how we have agreed upon as a team the needs to 
+build the overall software system. It begins by completing the environment setups for development and from there, it flows 
+into creating the home screen and prioritizing the matchmaking process. The main focus of this project is to provide a 
+solution to better matchmaking, so that is what we plan to resolve first. Within the backlog are stories that we feel have 
+less priority, however, also give our system the functionality it needs to provide a complete solution.
+
+#Definition of Ready: In order to consider a user story ready for development, it must meet our criteria. 
+This includes: Descriptive Title, Description with Use Case, Acceptance Criteria, Story Points
