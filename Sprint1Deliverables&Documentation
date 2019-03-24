@@ -1,0 +1,39 @@
+#Forecast of number of story points to complete + rationale:
+ 13 points, wanted to focus on research and set up rather than implementation. We lost a team member which cost us a delay.
+
+#Tasks listed in the sprint backlog: 
+https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_sprints/backlog/KSU-SPRING-19-ESEP%20Team/KSU-SPRING-19-ESEP/Sprint%201
+
+#Kanban board: 
+https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_sprints/taskboard/KSU-SPRING-19-ESEP%20Team/KSU-SPRING-19-ESEP/Sprint%201
+
+#Burndown chart:
+
+#Daily Scrum evidence:
+Monday March 17
+-What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal?
+Cucumber isn’t implemented properly with eclipse, team suggested to use intellij.
+A scale for the quantitative data was determined to be numerical from 1 to 5.
+-What will you do in the next 24 hours to help the Development Team meet the Sprint Goal?
+Scheduled a meeting with the developers to decide on a backend framework.
+- Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? What are the impediments?
+What is your impediment removal plan?
+One developer isn’t responsive. Reassigned tasks and responsibilities.
+#Evidence of mob programming:
+https://youtu.be/QxiQ9AsSG_A
+#1 BDD & 10 J Unit tests that all pass: 
+#Evidence of Sprint Review:
+ 
+https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_apps/hub/ms-devlabs.team-retrospectives.home
+
+#Link to working prototype:
+
+See sprint 1 deliverable code folder (FoxxyProject) & also check for screenshots.
+
+
+ 
+ 
+
+
+ 
+Note: UI is currently running in JavaFX which requires a unique setup so screenshots could be easier to read.
