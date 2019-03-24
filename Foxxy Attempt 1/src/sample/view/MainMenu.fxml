@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Label layoutX="158.0" layoutY="36.0" text="Main Foxxy Menu">
+         <font>
+            <Font name="SansSerif Regular" size="36.0" />
+         </font></Label>
+      <Button fx:id="mmEditButton" layoutX="106.0" layoutY="128.0" mnemonicParsing="false" onAction="#mmEditClick" text="Edit Profile" />
+      <Button fx:id="ProfileButton" layoutX="275.0" layoutY="128.0" mnemonicParsing="false" onAction="#mmCreateClick" text="Your Profile" />
+      <Button layoutX="417.0" layoutY="128.0" mnemonicParsing="false" text="Game Selection" />
+      <Button layoutX="179.0" layoutY="255.0" mnemonicParsing="false" text="Start Matchmaking" />
+      <Button layoutX="346.0" layoutY="255.0" mnemonicParsing="false" text="Friend List" />
+   </children>
+</AnchorPane>
