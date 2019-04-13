@@ -91,11 +91,72 @@ public class Controller {
         System.out.println("Step 1");
         Parent root = FXMLLoader.load(getClass().getResource("view/EditProfile.fxml"));
         System.out.println("step 2");
-        primaryStage.setTitle("Main Menu");
+        primaryStage.setTitle("Edit Profile");
         System.out.println("Step 3");
         primaryStage.setScene(new Scene(root, 600, 900));
         primaryStage.show();
     }
+
+    //Button Click Event for Edit Profile Button
+    public void mmAddFriendSearchClick(ActionEvent event) throws Exception{
+        displayAddFriendSearch();
+    }
+
+    //Displays Edit Profile Page
+    public void displayAddFriendSearch() throws Exception{
+        System.out.println("Username And Login Match");
+        currentStage.hide();
+        Stage primaryStage = new Stage();
+        System.out.println("Step 1");
+        Parent root = FXMLLoader.load(getClass().getResource("view/AddFriend.fxml"));
+        System.out.println("step 2");
+        primaryStage.setTitle("Add Friend Search");
+        System.out.println("Step 3");
+        primaryStage.setScene(new Scene(root, 600, 400));
+        primaryStage.show();
+    }
+
+
+    //Button Click Event for Edit Profile Button
+    public void friendSearchClick(ActionEvent event) throws Exception{
+        displayAddFriendresults();
+    }
+
+    //Displays Edit Profile Page
+    public void displayAddFriendresults() throws Exception{
+        System.out.println("Username And Login Match");
+        currentStage.hide();
+        Stage primaryStage = new Stage();
+        System.out.println("Step 1");
+        Parent root = FXMLLoader.load(getClass().getResource("view/SearchResults.fxml"));
+        System.out.println("step 2");
+        primaryStage.setTitle("Friend Search Results");
+        System.out.println("Step 3");
+        primaryStage.setScene(new Scene(root, 600, 400));
+        primaryStage.show();
+    }
+
+
+    //Button Click Event for Edit Profile Button
+    public void mmAddFriendClick(ActionEvent event) throws Exception{
+        displayManageFriendsGroups();
+    }
+
+    //Displays Edit Profile Page
+    public void displayManageFriendsGroups() throws Exception{
+        System.out.println("Username And Login Match");
+        currentStage.hide();
+        Stage primaryStage = new Stage();
+        System.out.println("Step 1");
+        Parent root = FXMLLoader.load(getClass().getResource("view/ManageFriendsGroups.fxml"));
+        System.out.println("step 2");
+        primaryStage.setTitle("Manage Friends and Groups");
+        System.out.println("Step 3");
+        primaryStage.setScene(new Scene(root, 600, 400));
+        primaryStage.show();
+    }
+
+
 
     //Saves Data from Edit Profile Page
     public void saveProfileEditData() {
