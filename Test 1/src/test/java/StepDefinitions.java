@@ -86,5 +86,66 @@ public class StepDefinitions {
     }
 
 
+    //SPRINT 2
+    @Given("^at Manage Friends Menu$")
+    public void at_Manage_Friends_Menu() throws Exception {
+        Controller controller = new Controller();
+        controller.displayManageFriendsGroups();
+    }
+
+    @When("^press the Add Friend button$")
+    public void press_the_Add_Friend_button() throws Exception {
+        Controller controller = new Controller();
+        controller.mmAddFriendClick();
+    }
+
+    @Then("^the Add friend Page should display$")
+    public void the_Add_friend_Page_should_display() throws Exception {
+        Controller controller = new Controller();
+        controller.displayAddFriendSearch();
+    }
+
+    @Given("^at Main Menu$")
+    public void at_Main_Menu() throws Exception {
+        Controller controller = new Controller();
+        controller.displayMainMenu();
+    }
+
+    @When("^press the Friend List button$")
+    public void press_the_Friend_List_button() throws Exception {
+        Controller controller = new Controller();
+        controller.mmAddFriendClick();
+    }
+
+    @Then("^the Manage Friends page should open$")
+    public void the_Manage_Friends_page_should_open() throws Exception {
+        Controller controller = new Controller();
+        controller.displayManageFriendsGroups();
+    }
+
+    @Given("^at Add Friend Page$")
+    public void at_Add_Friend_Page() throws Exception {
+        Controller controller = new Controller();
+        controller.displayAddFriendSearch();
+    }
+
+    @When("^press the Search Friend Button$")
+    public void press_the_Search_Friend_Button() throws Exception {
+        Controller controller = new Controller();
+        controller.friendSearchClick();
+    }
+
+    @Then("^the Friend Search Results page should open$")
+    public void the_Friend_Search_Results_page_should_open() throws Exception {
+        Controller controller = new Controller();
+        controller.displayAddFriendresults();
+    }
+
+    @When("^I click Login button$")
+    public void i_click_Login_button() throws Exception {
+        Controller controller = new Controller();
+        controller.LoginClick();
+    }
+
 
 }
