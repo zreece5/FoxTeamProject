@@ -1,10 +1,10 @@
 #Forecast of number of story points to complete + rationale:
 
 #Tasks listed in the sprint backlog: 
-https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_sprints/backlog/KSU-SPRING-19-ESEP%20Team/KSU-SPRING-19-ESEP/Sprint%202
+https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_sprints/backlog/KSU-SPRING-19-ESEP%20Team/KSU-SPRING-19-ESEP/Sprint%201
 
 #Kanban board: 
-https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_sprints/taskboard/KSU-SPRING-19-ESEP%20Team/KSU-SPRING-19-ESEP/Sprint%202
+https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_sprints/taskboard/KSU-SPRING-19-ESEP%20Team/KSU-SPRING-19-ESEP/Sprint%201
 
 #Burndown chart:
 https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_dashboards/dashboard/32462981-fc85-4c46-8eeb-ff597f3e1e3d
@@ -12,11 +12,16 @@ https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_dashboards/dashboard/32462981-f
 #Daily Scrum evidence:
 
 
-#Evidence of mob programming:
+#Evidence of mob programming: https://youtu.be/9L_Qk0WPzMg
 
-#1 BDD & 10 J Unit tests that all pass: 
+#1 BDD & 10 J Unit tests that all pass: Screenshots with code
 
 #Evidence of Sprint Review:
+ 
 https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_apps/hub/ms-devlabs.team-retrospectives.home
 
-#Link to working prototype:
+#Link to working prototype: in the git repository jar.exe
+
+Sprint demo of backend: https://youtu.be/hnKX6a-8x8Q
+
+CI/CD: Uploaded screenshots
