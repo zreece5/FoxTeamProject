@@ -1,0 +1,13 @@
+COMPILATION
+Please unzip the package and use maven and Java 8 to compile it.
+You can also use Intellij to open the project if you have Intellij installed.
+
+DESCRIPTION
+To solve the general matchmaking problem for online games, two steps are introduced:
+1) Pick the first player in the queue, and find the similar players of him/her. This is handled by the PlayerFinder interface. I implemented two subclasses of PlayerFinder.
+2) Split the players found in the above step into two teams and put them into a match. This is handled by the TeamBuilder interface. I also implemented two subclasses of TeamBuilder.
+All classes are fully covered by unit tests.
+
+A simple rating system is introduced to the each Player and it is based on the winning ratio. Most of the sorting of the players are based on their ratings.
+
+A simulator is also developed to simulate each of the match result and a console app is developed as a proof of concept. It is configured by Spring, we can use the Spring XML configuration file "matchmaking.xml" to achieve different combinations of strategies as well as their parameters. By using the simulator, back-testing can be conducted easily. In the future if new implementation of PlayerFinder and TeamBuilder interfaces are introduced, they can be added into the current framework seamlessly by just updating the XML configuration.
