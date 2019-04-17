@@ -5,7 +5,6 @@
 <?import java.lang.*?>
 <?import javafx.scene.layout.*?>
 
-
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <Label layoutX="178.0" layoutY="43.0" text="1v1 Matchmaking">
@@ -13,9 +12,7 @@
             <Font size="30.0" />
          </font>
       </Label>
-      <Label layoutX="112.0" layoutY="97.0" text="Your best matchups! Select the one you want to play against!" />
-      <ListView layoutX="175.0" layoutY="140.0" prefHeight="121.0" prefWidth="250.0" />
-      <Button layoutX="134.0" layoutY="302.0" mnemonicParsing="false" text="Start Game" />
-      <Button layoutX="350.0" layoutY="302.0" mnemonicParsing="false" text="Back to Matchmaking" />
+      <Label fx:id="matchMakingStatusLabel" layoutX="242.0" layoutY="157.0" text="Waiting for match....." />
+      <Button layoutX="235.0" layoutY="291.0" mnemonicParsing="false" text="Back to Matchmaking" />
    </children>
 </AnchorPane>
