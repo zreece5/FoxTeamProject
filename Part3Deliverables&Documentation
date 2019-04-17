@@ -1,0 +1,55 @@
+#Forecast of number of story points to complete + rationale:
+15 points, after researching the possibilities we wanted to construct the backend of the project and implement 
+the features we need for the MVP. The stories selected for this sprint should set us up for the final sprint to implement 
+what is remaining.
+
+#Tasks listed in the sprint backlog: 
+https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_sprints/backlog/KSU-SPRING-19-ESEP%20Team/KSU-SPRING-19-ESEP/Sprint%202
+
+#Kanban board: 
+https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_sprints/taskboard/KSU-SPRING-19-ESEP%20Team/KSU-SPRING-19-ESEP/Sprint%202
+
+#Burndown chart:
+https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_dashboards/dashboard/32462981-fc85-4c46-8eeb-ff597f3e1e3d
+
+#Daily Scrum evidence:
+Monday April 8
+What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal?
+- Mob programming meeting tonight at 8pm EST
+- For continuous integration - use Jenkins
+
+What will you do in the next 24 hours to help the Development Team meet the Sprint Goal?
+- Create basic DB connection
+For database:
+- Player table
+- Game table
+- Group table
+- Player behavior table
+
+Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? What are the impediments?
+What is your impediment removal plan?
+- Waiting on backened development.
++ meeting to check status and match assignment
+
+
+#Evidence of mob programming: 
+https://youtu.be/9L_Qk0WPzMg
+
+#1 BDD & 10 J Unit tests that all pass: 
+Screenshots with code: Under test 1 for code.  png file Sprint 2 BDD and Unit tests Passing
+it is in the git repo
+
+#Evidence of Sprint Review:
+https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_apps/hub/ms-devlabs.team-retrospectives.home
+
+#Link to working prototype: 
+https://www.youtube.com/watch?v=7GpbafOPTk0&feature=youtu.be
+
+#Sprint demo of backend: 
+https://youtu.be/hnKX6a-8x8Q
+
+#Sprint demo of frontend:
+https://youtu.be/7GpbafOPTk0
+
+#CI/CD: 
+Uploaded screenshots

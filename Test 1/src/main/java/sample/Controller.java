@@ -1,6 +1,7 @@
-package sample;
+package sample;/*
 
-/*import javafx.event.ActionEvent;
+import javafx.event.ActionEvent;
+
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -31,9 +32,9 @@ public class Controller {
         currentStage.show();*/
     }
 
-    //public void Login(ActionEvent event) throws Exception{
-    //    Login();
-    //}
+    public void LoginClick() throws Exception {
+            Login();
+    }
 
     public void Login()throws Exception{
         /*if(eMailField.getText().equals("user") && PasswordField.getText().equals("pass")){
@@ -121,6 +122,65 @@ public class Controller {
         primaryStage.setTitle("Main Menu");
         System.out.println("Step 3");
         primaryStage.setScene(new Scene(root, 600, 900));
+        primaryStage.show();*/
+    }
+
+    //Button Click Event for Add Friend Button
+    public void mmAddFriendSearchClick() throws Exception{
+        displayAddFriendSearch();
+    }
+
+    //Displays Add Friend Page
+    public void displayAddFriendSearch() throws Exception{
+        /*System.out.println("Username And Login Match");
+        currentStage.hide();
+        Stage primaryStage = new Stage();
+        System.out.println("Step 1");
+        Parent root = FXMLLoader.load(getClass().getResource("view/AddFriend.fxml"));
+        System.out.println("step 2");
+        primaryStage.setTitle("Add Friend Search");
+        System.out.println("Step 3");
+        primaryStage.setScene(new Scene(root, 600, 400));
+        primaryStage.show();*/
+    }
+
+
+    //Button Click Event for Friend Search Button
+    public void friendSearchClick() throws Exception{
+        displayAddFriendresults();
+    }
+
+    //Displays friend Search Results Page
+    public void displayAddFriendresults() throws Exception{
+        /*System.out.println("Username And Login Match");
+        currentStage.hide();
+        Stage primaryStage = new Stage();
+        System.out.println("Step 1");
+        Parent root = FXMLLoader.load(getClass().getResource("view/SearchResults.fxml"));
+        System.out.println("step 2");
+        primaryStage.setTitle("Friend Search Results");
+        System.out.println("Step 3");
+        primaryStage.setScene(new Scene(root, 600, 400));
+        primaryStage.show();*/
+    }
+
+
+    //Button Click Event for Manage Friends Button
+    public void mmAddFriendClick() throws Exception{
+        displayManageFriendsGroups();
+    }
+
+    //Displays Manage Friends Page
+    public void displayManageFriendsGroups() throws Exception{
+        /*System.out.println("Username And Login Match");
+        currentStage.hide();
+        Stage primaryStage = new Stage();
+        System.out.println("Step 1");
+        Parent root = FXMLLoader.load(getClass().getResource("view/ManageFriendsGroups.fxml"));
+        System.out.println("step 2");
+        primaryStage.setTitle("Manage Friends and Groups");
+        System.out.println("Step 3");
+        primaryStage.setScene(new Scene(root, 600, 400));
         primaryStage.show();*/
     }
 

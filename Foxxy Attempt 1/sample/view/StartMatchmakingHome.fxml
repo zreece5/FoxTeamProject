@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="133.0" layoutY="187.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="133.0" text="1v1 Match" />
+      <Button layoutX="320.0" layoutY="187.0" mnemonicParsing="false" text="3v3 Match (Group Game)" />
+      <Button layoutX="407.0" layoutY="343.0" mnemonicParsing="false" text="Back to Main Menu" />
+      <Label layoutX="202.0" layoutY="33.0" text="Matchmaking">
+         <font>
+            <Font size="31.0" />
+         </font>
+      </Label>
+      <Label layoutX="209.0" layoutY="92.0" text="Select an option below to begin!" />
+   </children>
+</AnchorPane>

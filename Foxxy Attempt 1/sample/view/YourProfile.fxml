@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="900.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Label layoutX="261.0" layoutY="41.0" text="Your Profile">
+         <font>
+            <Font name="SansSerif Regular" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="102.0" text="Behavioral 1-5 1 = Low 5 = High">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="151.0" text="I like playing with people who talk during matches:">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="194.0" text="I like playing with people who are aggressive:">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="235.0" text="I get easily offended by  Trash Talk\(derogatory comments):">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="279.0" text="Video games can sometimes make me stressed or angry:">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="337.0" text="Skill 1-5 1 = Low 5 = High">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="380.0" text="I am an experienced gamer:">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="423.0" text="I am a skilled gamer:">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="463.0" text="I only want to play people who are on my skill level:">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="506.0" text="I like to be challenged in a match:">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Button layoutX="438.0" layoutY="832.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="196.0" text="Back To Menu">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <TextField layoutX="596.0" layoutY="152.0" prefHeight="25.0" prefWidth="32.0" text="4" />
+      <TextField layoutX="596.0" layoutY="195.0" prefHeight="25.0" prefWidth="32.0" text="4" />
+      <TextField layoutX="596.0" layoutY="236.0" prefHeight="25.0" prefWidth="32.0" text="3" />
+      <TextField layoutX="596.0" layoutY="281.0" prefHeight="25.0" prefWidth="32.0" text="5" />
+      <TextField layoutX="596.0" layoutY="381.0" prefHeight="25.0" prefWidth="32.0" text="5" />
+      <TextField layoutX="596.0" layoutY="424.0" prefHeight="25.0" prefWidth="32.0" text="4" />
+      <TextField layoutX="596.0" layoutY="464.0" prefHeight="25.0" prefWidth="32.0" text="4" />
+      <TextField layoutX="596.0" layoutY="507.0" prefHeight="25.0" prefWidth="32.0" text="3" />
+   </children>
+</AnchorPane>
