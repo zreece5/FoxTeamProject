@@ -11,10 +11,25 @@
          <font>
             <Font name="SansSerif Regular" size="36.0" />
          </font></Label>
-      <Button fx:id="mmEditButton" layoutX="106.0" layoutY="128.0" mnemonicParsing="false" onAction="#mmEditClick" text="Edit Profile" />
-      <Button fx:id="ProfileButton" layoutX="275.0" layoutY="128.0" mnemonicParsing="false" onAction="#mmCreateClick" text="Your Profile" />
-      <Button layoutX="417.0" layoutY="128.0" mnemonicParsing="false" text="Game Selection" />
-      <Button layoutX="179.0" layoutY="255.0" mnemonicParsing="false" text="Start Matchmaking" />
-      <Button fx:id="mmFreindListButton" layoutX="346.0" layoutY="255.0" mnemonicParsing="false" onAction="#mmAddFriendClick" text="Friend List" />
+      <Button fx:id="mmEditButton" layoutX="127.0" layoutY="128.0" mnemonicParsing="false" onAction="#mmEditClick" style="-fx-background-color: #31d3d8;" text="Edit Profile" textFill="#fffbfb">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font></Button>
+      <Button fx:id="ProfileButton" layoutX="359.0" layoutY="128.0" mnemonicParsing="false" onAction="#mmCreateClick" prefHeight="48.0" prefWidth="169.0" style="-fx-background-color: #31d3d8;" text="Your Profile" textFill="#fffafa">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font></Button>
+      <Button layoutX="104.0" layoutY="213.0" mnemonicParsing="false" style="-fx-background-color: #314fd8;" text="Game Selection" textFill="#fcf9f9">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font></Button>
+      <Button layoutX="131.0" layoutY="289.0" mnemonicParsing="false" prefHeight="86.0" prefWidth="327.0" style="-fx-background-color: #813ac9;" text="Start Matchmaking" textFill="#fcf8f8">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font></Button>
+      <Button fx:id="mmFreindListButton" layoutX="344.0" layoutY="213.0" mnemonicParsing="false" onAction="#mmAddFriendClick" prefHeight="48.0" prefWidth="199.0" style="-fx-background-color: #65a82f;" text="Friend List" textFill="#fcf6f6">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font></Button>
    </children>
 </AnchorPane>

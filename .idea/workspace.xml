@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50eea541-b602-450e-bf0f-625c714bab82" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/Foxxy Attempt 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/Foxxy Attempt 1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/AddFriend.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/AddFriend.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/CreateProfile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/CreateProfile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/EditProfile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/EditProfile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/GameSelection.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/GameSelection.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/LoginScreen.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/LoginScreen.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MainMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MainMenu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/ManageFriendsGroups.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/ManageFriendsGroups.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking1v1.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking1v1.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking3v3.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking3v3.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchmakingGameBegin.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchmakingGameBegin.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/SearchResults.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/SearchResults.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/StartMatchmakingHome.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/StartMatchmakingHome.fxml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Test 1/src/test/target/" />
@@ -15,54 +26,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test 1/src/test/test.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test 1/src/test/resources/Test 1/createProfilePage.feature">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test 1/src/test/java/StepDefinitions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test 1/src/test/java/RunCucumberTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/EditProfile.fxml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/src/sample/view/AddFriend.fxml">
-          <provider selected="true" editor-type-id="text-editor" />
-          <provider editor-type-id="JavaFX-Scene-Builder" />
+        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/AddFriend.fxml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test 1/src/main/main.iml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/GameSelection.fxml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test 1/src/test/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MainMenu.fxml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking1v1.fxml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking3v3.fxml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/SearchResults.fxml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/ManageFriendsGroups.fxml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/GameSelection.fxml" />
+        <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/LoginScreen.fxml" />
+        <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MainMenu.fxml" />
+        <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking1v1.fxml" />
+        <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/EditProfile.fxml" />
+        <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking3v3.fxml" />
+        <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchmakingGameBegin.fxml" />
+        <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/StartMatchmakingHome.fxml" />
+        <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/SearchResults.fxml" />
+        <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/ManageFriendsGroups.fxml" />
+      </list>
+    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -80,11 +111,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1612" />
-    <option name="height" value="876" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -93,7 +123,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,10 +192,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555516952247" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555957010390" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../FoxxyMatching" />
   </component>
   <component name="RecentsManager">
@@ -217,8 +247,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -247,25 +278,8 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test 1/src/test/test.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test 1/src/test/resources/Test 1/createProfilePage.feature">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test 1/src/test/java/StepDefinitions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/src/sample/view/AddFriend.fxml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -277,12 +291,81 @@
     <entry file="file://$PROJECT_DIR$/Test 1/src/test/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Test 1/src/test/java/RunCucumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test 1/src/test/java/StepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test 1/src/test/resources/Test 1/createProfilePage.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/CreateProfile.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/LoginScreen.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/YourProfile.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/StartMatchmakingHome.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchmakingGameBegin.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/ManageFriendsGroups.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/SearchResults.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking3v3.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking1v1.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MainMenu.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/GameSelection.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/AddFriend.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/EditProfile.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
   </component>
   <component name="masterDetails">

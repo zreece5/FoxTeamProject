@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.text.*?>
-<?import javafx.scene.control.*?>
-<?import java.lang.*?>
-<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
 
-
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <Button layoutX="133.0" layoutY="187.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="133.0" text="1v1 Match" />
-      <Button layoutX="320.0" layoutY="187.0" mnemonicParsing="false" text="3v3 Match (Group Game)" />
-      <Button layoutX="407.0" layoutY="343.0" mnemonicParsing="false" text="Back to Main Menu" />
-      <Label layoutX="202.0" layoutY="33.0" text="Matchmaking">
+      <Button layoutX="94.0" layoutY="186.0" mnemonicParsing="false" prefHeight="66.0" prefWidth="173.0" text="1v1 Match" />
+      <Button layoutX="320.0" layoutY="187.0" mnemonicParsing="false" prefHeight="66.0" prefWidth="191.0" text="3v3 Match (Group Game)" />
+      <Button cancelButton="true" layoutX="190.0" layoutY="325.0" mnemonicParsing="false" prefHeight="74.0" prefWidth="235.0" style="-fx-background-color: #f45f42;" text="Back to Main Menu" textFill="#f8f6f6">
          <font>
-            <Font size="31.0" />
-         </font>
-      </Label>
+            <Font name="System Bold" size="22.0" />
+         </font></Button>
       <Label layoutX="209.0" layoutY="92.0" text="Select an option below to begin!" />
+      <Pane layoutY="1.0" prefHeight="83.0" prefWidth="600.0" style="-fx-background-color: #813ac9;">
+         <children>
+            <Label layoutX="199.0" layoutY="19.0" text="Matchmaking" textFill="#f5f4f4">
+               <font>
+                  <Font name="System Bold" size="31.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
    </children>
 </AnchorPane>

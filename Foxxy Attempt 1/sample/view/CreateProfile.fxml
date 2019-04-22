@@ -7,7 +7,6 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-
 <AnchorPane prefHeight="900.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
    <children>
       <TextField layoutX="578.0" layoutY="515.0" prefHeight="25.0" prefWidth="32.0" />
@@ -18,14 +17,14 @@
       <TextField layoutX="578.0" layoutY="244.0" prefHeight="25.0" prefWidth="32.0" />
       <TextField layoutX="578.0" layoutY="203.0" prefHeight="25.0" prefWidth="32.0" />
       <TextField layoutX="578.0" layoutY="160.0" prefHeight="25.0" prefWidth="32.0" />
-      <Button layoutX="508.0" layoutY="840.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="108.0" text="Cancel">
+      <Button cancelButton="true" layoutX="307.0" layoutY="829.0" mnemonicParsing="false" prefHeight="70.0" prefWidth="311.0" style="-fx-background-color: #f45f42;" text="Cancel" textFill="#fffdfd">
          <font>
-            <Font size="18.0" />
+            <Font name="System Bold" size="20.0" />
          </font>
       </Button>
-      <Button layoutX="391.0" layoutY="840.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="100.0" style="-fx-background-color: blue;" text="Create" textFill="#fffafa">
+      <Button layoutY="829.0" mnemonicParsing="false" prefHeight="70.0" prefWidth="311.0" style="-fx-background-color: #92f442;" text="Create" textFill="#fffafa">
          <font>
-            <Font size="18.0" />
+            <Font name="System Bold" size="20.0" />
          </font>
       </Button>
       <Label layoutX="22.0" layoutY="514.0" text="I like to be challenged in a match:">
@@ -50,7 +49,7 @@
       </Label>
       <Label layoutX="22.0" layoutY="345.0" text="Skill 1-5 1 = Low 5 = High">
          <font>
-            <Font size="18.0" />
+            <Font name="System Bold" size="20.0" />
          </font>
       </Label>
       <Label layoutX="22.0" layoutY="287.0" text="Video games can sometimes make me stressed or angry:">
@@ -75,13 +74,17 @@
       </Label>
       <Label layoutX="22.0" layoutY="110.0" text="Behavioral 1-5 1 = Low 5 = High">
          <font>
-            <Font size="18.0" />
+            <Font name="System Bold" size="20.0" />
          </font>
       </Label>
-      <Label layoutX="22.0" layoutY="46.0" text="Create Profile">
-         <font>
-            <Font name="SansSerif Regular" size="24.0" />
-         </font>
-      </Label>
+      <Pane layoutX="-2.0" prefHeight="97.0" prefWidth="624.0" style="-fx-background-color: #31d3d8;">
+         <children>
+            <Label layoutX="191.0" layoutY="28.0" text="Create Profile" textFill="#fffbfb">
+               <font>
+                  <Font name="SansSerif Bold" size="36.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
    </children>
 </AnchorPane>
