@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="greedyPlayerFinder" class="edu.ksu.matchmaking.helper.GreedyPlayerFinder">
+        <constructor-arg value="0.05"/>
+    </bean>
+
+    <bean id="nearestNeighbourPlayerFinder" class="edu.ksu.matchmaking.helper.NearestNeighbourPlayerFinder">
+    </bean>
+
+    <bean id="ratingBasedMatchBuilder" class="edu.ksu.matchmaking.helper.RatingBasedTeamBuilder">
+    </bean>
+
+    <bean id="positionBasedTeamBuilder" class="edu.ksu.matchmaking.helper.PositionBasedTeamBuilder">
+    </bean>
+
+    <bean id="winningRatioBasedRatingHelper" class="edu.ksu.matchmaking.helper.WinningRatioBasedRatingHelper">
+        <constructor-arg value="0.5"/>
+    </bean>
+
+    <bean id="simpleMatchSimulator" class="edu.ksu.matchmaking.simulator.SimpleMatchSimulator">
+        <constructor-arg index="0" value="0.05"/>
+        <constructor-arg index="1" value="95"/>
+        <constructor-arg index="2" value="50"/>
+        <constructor-arg index="3" value="5"/>
+    </bean>
+
+    <bean id="matchmaker" class="edu.ksu.matchmaking.MatchmakerImpl">
+        <constructor-arg index="0" ref="nearestNeighbourPlayerFinder"/>
+        <constructor-arg index="1" ref="ratingBasedMatchBuilder"/>
+    </bean>
+
+</beans>

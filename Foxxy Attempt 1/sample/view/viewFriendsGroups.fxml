@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane prefHeight="454.0" prefWidth="245.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.view.ViewFriendsGroups">
+   <children>
+      <TreeView fx:id="selectionTreeView" editable="true" layoutX="14.0" layoutY="53.0" prefHeight="326.0" prefWidth="217.0" />
+      <Pane prefHeight="57.0" prefWidth="245.0" style="-fx-background-color: #65a82f;">
+         <children>
+            <Label layoutX="19.0" layoutY="11.0" text="Friends and Groups" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="24.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Button cancelButton="true" layoutY="379.0" mnemonicParsing="false" prefHeight="73.0" prefWidth="245.0" style="-fx-background-color: #f45f42;" text="Close" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

@@ -1,4 +1,4 @@
-package sample;
+
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -17,6 +17,13 @@ public class Controller {
 
     @FXML
     private javafx.scene.control.TextField PasswordField;
+
+    @FXML
+    TreeView selectionTreeView;
+    @FXML
+    private void handleButtonAction(ActionEvent event) {
+        createTree();
+    }
 
     public void loadLoginPage() throws Exception {
         Stage primaryStage = new Stage();
@@ -89,7 +96,7 @@ public class Controller {
         currentStage.hide();
         Stage primaryStage = new Stage();
         System.out.println("Step 1");
-        Parent root = FXMLLoader.load(getClass().getResource("view/EditProfile.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("view/CreateProfile.fxml"));
         System.out.println("step 2");
         primaryStage.setTitle("Edit Profile");
         System.out.println("Step 3");
@@ -157,6 +164,17 @@ public class Controller {
     }
 
 
+    public void createTree(String... rootItems) {
+        //create root
+        TreeItem<String> root = new TreeItem<>("Root");
+        //root.setExpanded(true);
+        //create child
+        TreeItem<String> itemChild = new TreeItem<>("Child");
+        itemChild.setExpanded(false);
+        //root is the parent of itemChild
+        root.getChildren().add(itemChild);
+        selectionTreeView.setRoot(root);
+    }
 
     //Saves Data from Edit Profile Page
     public void saveProfileEditData() {

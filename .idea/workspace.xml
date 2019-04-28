@@ -2,19 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50eea541-b602-450e-bf0f-625c714bab82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/azureSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/ksu-spring-19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/matchmaking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/ExampleData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/Matchmaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/MatchmakerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/MatchmakingSimulationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/helper/AbstractTeamBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/helper/GreedyPlayerFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/helper/NearestNeighbourPlayerFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/helper/PlayerFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/helper/PositionBasedTeamBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/helper/RatingBasedTeamBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/helper/RatingHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/helper/TeamBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/helper/WinningRatioBasedRatingHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/model/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/model/MatchResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/model/PlayStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/simulator/MatchSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/simulator/SimpleMatchSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/resources/matchmaking.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/test/java/edu/ksu/matchmaking/MatchmakerImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/test/java/edu/ksu/matchmaking/helper/AbstractTeamBuilderTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/test/java/edu/ksu/matchmaking/helper/GreedyPlayerFinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/test/java/edu/ksu/matchmaking/helper/NearestNeighbourPlayerFinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/test/java/edu/ksu/matchmaking/helper/PositionBasedTeamBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/test/java/edu/ksu/matchmaking/helper/RatingBasedTeamBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/test/java/edu/ksu/matchmaking/helper/WinningRatioBasedRatingHelperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/ExampleData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/Matchmaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/MatchmakerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/MatchmakingSimulationApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/helper/AbstractTeamBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/helper/GreedyPlayerFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/helper/NearestNeighbourPlayerFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/helper/PlayerFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/helper/PositionBasedTeamBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/helper/RatingBasedTeamBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/helper/RatingHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/helper/TeamBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/helper/WinningRatioBasedRatingHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/model/Match.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/model/MatchResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/model/PlayStyle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/model/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/simulator/MatchSimulator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/edu/ksu/matchmaking/simulator/SimpleMatchSimulator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/classes/matchmaking.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/test-classes/edu/ksu/matchmaking/MatchmakerImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/test-classes/edu/ksu/matchmaking/helper/AbstractTeamBuilderTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/test-classes/edu/ksu/matchmaking/helper/GreedyPlayerFinderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/test-classes/edu/ksu/matchmaking/helper/NearestNeighbourPlayerFinderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/test-classes/edu/ksu/matchmaking/helper/PositionBasedTeamBuilderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/test-classes/edu/ksu/matchmaking/helper/RatingBasedTeamBuilderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/target/test-classes/edu/ksu/matchmaking/helper/WinningRatioBasedRatingHelperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/viewFriendsGroups.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 1/src/test/sample/view/AddFriend.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 1/src/test/sample/view/GameSelection.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 1/src/test/sample/view/LoginScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 1/src/test/sample/view/MainMenu.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 1/src/test/sample/view/ManageFriendsGroups.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 1/src/test/sample/view/MatchMaking1v1.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 1/src/test/sample/view/MatchMaking3v3.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 1/src/test/sample/view/MatchmakingGameBegin.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 1/src/test/sample/view/SearchResults.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 1/src/test/sample/view/StartMatchmakingHome.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/AddFriend.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/AddFriend.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/CreateProfile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/CreateProfile.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/EditProfile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/EditProfile.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/GameSelection.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/GameSelection.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/LoginScreen.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/LoginScreen.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/EditProfile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Test 1/src/test/sample/view/EditProfile.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MainMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MainMenu.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/ManageFriendsGroups.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/ManageFriendsGroups.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking1v1.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking1v1.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking3v3.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking3v3.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchmakingGameBegin.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchmakingGameBegin.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/SearchResults.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/SearchResults.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/StartMatchmakingHome.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/StartMatchmakingHome.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/YourProfile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Test 1/src/test/sample/view/YourProfile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 1/src/test/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 1/src/test/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/src/sample/view/AddFriend.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/src/sample/view/CreateProfile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Test 1/src/test/sample/view/CreateProfile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/src/sample/view/EditProfile.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/src/sample/view/LoginScreen.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/src/sample/view/MainMenu.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/src/sample/view/ManageFriendsGroups.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foxxy Attempt 1/src/sample/view/SearchResults.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchmaking/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/matchmaking/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchmaking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/matchmaking/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Foxxy Attempt 1/sample/view/AddFriend.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Foxxy Attempt 1/sample/view/CreateProfile.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Foxxy Attempt 1/sample/view/EditProfile.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Foxxy Attempt 1/sample/view/LoginScreen.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Foxxy Attempt 1/sample/view/MainMenu.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Foxxy Attempt 1/sample/view/ManageFriendsGroups.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Foxxy Attempt 1/sample/view/SearchResults.fxml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Test 1/src/test/target/" />
@@ -25,46 +125,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/EditProfile.fxml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/AddFriend.fxml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/GameSelection.fxml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MainMenu.fxml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking1v1.fxml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking3v3.fxml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/SearchResults.fxml">
-          <provider editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/viewFriendsGroups.fxml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
           <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
@@ -74,7 +142,59 @@
           <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="method#loadLoginPage#0;class#Controller#0" />
+                <element signature="method#Login#0;class#Controller#0" />
+                <element signature="method#Login#1;class#Controller#0" />
+                <element signature="method#displayMainMenu#0;class#Controller#0" />
+                <element signature="method#mmCreateClick#0;class#Controller#0" />
+                <element signature="method#displayCreateProfile#0;class#Controller#0" />
+                <element signature="method#mmEditClick#0;class#Controller#0" />
+                <element signature="method#displayEditProfile#0;class#Controller#0" />
+                <element signature="method#mmAddFriendSearchClick#0;class#Controller#0" />
+                <element signature="method#displayAddFriendSearch#0;class#Controller#0" />
+                <element signature="method#friendSearchClick#0;class#Controller#0" />
+                <element signature="method#displayAddFriendresults#0;class#Controller#0" />
+                <element signature="method#mmAddFriendClick#0;class#Controller#0" />
+                <element signature="method#displayManageFriendsGroups#0;class#Controller#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test 1/src/test/java/StepDefinitions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/AddFriend.fxml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,6 +212,9 @@
         <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/StartMatchmakingHome.fxml" />
         <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/SearchResults.fxml" />
         <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/view/ManageFriendsGroups.fxml" />
+        <option value="$PROJECT_DIR$/Test 1/src/test/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/Test 1/src/main/java/sample/view/viewFriendsGroups.fxml" />
+        <option value="$PROJECT_DIR$/Foxxy Attempt 1/sample/Controller.java" />
       </list>
     </option>
   </component>
@@ -111,18 +234,20 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,6 +258,11 @@
             <path>
               <item name="FoxTeamProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="Foxxy Attempt 1" type="462c0819:PsiDirectoryNode" />
+              <item name="matchmaking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoxTeamProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foxxy Attempt 1" type="462c0819:PsiDirectoryNode" />
               <item name="sample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -140,68 +270,24 @@
               <item name="Foxxy Attempt 1" type="462c0819:PsiDirectoryNode" />
               <item name="sample" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoxTeamProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Foxxy Attempt 1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoxTeamProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoxTeamProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoxTeamProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoxTeamProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoxTeamProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoxTeamProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoxTeamProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FoxTeamProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Test 1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555957010390" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../FoxxyMatching" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556465955073" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Robby\Desktop\Intellij WorkSpace\GitHub Zone\FoxTeamProject\Foxxy Attempt 1\sample\view" />
       <recent name="C:\Users\Robby\Desktop\Intellij WorkSpace\GitHub Zone\FoxTeamProject\Test 1\src\test" />
+      <recent name="C:\Users\Robby\Desktop\Intellij WorkSpace\GitHub Zone\FoxTeamProject\Foxxy Attempt 1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -247,9 +333,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17004265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -257,7 +342,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -266,7 +351,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.3261105" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -291,13 +376,6 @@
     <entry file="file://$PROJECT_DIR$/Test 1/src/test/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test 1/src/test/java/RunCucumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -305,25 +383,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test 1/src/test/java/StepDefinitions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test 1/src/test/resources/Test 1/createProfilePage.feature">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/CreateProfile.fxml">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/LoginScreen.fxml">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/YourProfile.fxml">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
@@ -335,15 +398,11 @@
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/ManageFriendsGroups.fxml">
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/GameSelection.fxml">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/SearchResults.fxml">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking3v3.fxml">
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/YourProfile.fxml">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
@@ -351,11 +410,65 @@
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MainMenu.fxml">
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MatchMaking3v3.fxml">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/GameSelection.fxml">
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/SearchResults.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/model/Match.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test 1/src/test/sample/view/MainMenu.fxml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/matchmaking/src/main/java/edu/ksu/matchmaking/model/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/CreateProfile.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/EditProfile.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test 1/src/test/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1108">
+          <caret line="91" column="73" selection-start-line="91" selection-start-column="73" selection-end-line="91" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test 1/src/main/java/sample/view/viewFriendsGroups.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/MainMenu.fxml">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
@@ -363,9 +476,52 @@
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/EditProfile.fxml">
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/viewFriendsGroups.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/view/ManageFriendsGroups.fxml">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test 1/src/test/java/StepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foxxy Attempt 1/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="method#loadLoginPage#0;class#Controller#0" />
+            <element signature="method#Login#0;class#Controller#0" />
+            <element signature="method#Login#1;class#Controller#0" />
+            <element signature="method#displayMainMenu#0;class#Controller#0" />
+            <element signature="method#mmCreateClick#0;class#Controller#0" />
+            <element signature="method#displayCreateProfile#0;class#Controller#0" />
+            <element signature="method#mmEditClick#0;class#Controller#0" />
+            <element signature="method#displayEditProfile#0;class#Controller#0" />
+            <element signature="method#mmAddFriendSearchClick#0;class#Controller#0" />
+            <element signature="method#displayAddFriendSearch#0;class#Controller#0" />
+            <element signature="method#friendSearchClick#0;class#Controller#0" />
+            <element signature="method#displayAddFriendresults#0;class#Controller#0" />
+            <element signature="method#mmAddFriendClick#0;class#Controller#0" />
+            <element signature="method#displayManageFriendsGroups#0;class#Controller#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
