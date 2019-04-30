@@ -11,15 +11,19 @@ https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_sprints/taskboard/KSU-SPRING-19
 https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_dashboards/dashboard/32462981-fc85-4c46-8eeb-ff597f3e1e3d
 
 #Daily Scrum evidence:
-DATE
+Monday April 22
 What did you do in the last 24 hours that helped the Development Team meet the Sprint Goal?
+- Working on integration with backend
+- Adjust color scheme to suit color blindness
 
 What will you do in the next 24 hours to help the Development Team meet the Sprint Goal?
-
+- Mob programming meeting on Tuesday April 23
+- Additional meeting on Wednesday
 
 Do you see any impediment that prevents you or the Development Team from meeting the Sprint Goal? What are the impediments?
 What is your impediment removal plan?
-
+- Working with the in memory database
++ Pull data with methods
 
 #Evidence of mob programming: 
 https://youtu.be/Kn7UoIK1Nb8
