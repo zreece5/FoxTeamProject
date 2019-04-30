@@ -1,5 +1,5 @@
 #Forecast of number of story points to complete + rationale:
-
+7 points, this sprint aimed on wrapping up final features and backend integration. We chose these points to finalize our MVP.
 
 #Tasks listed in the sprint backlog: 
 https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_sprints/backlog/KSU-SPRING-19-ESEP%20Team/KSU-SPRING-19-ESEP/Sprint%203
@@ -24,18 +24,13 @@ What is your impediment removal plan?
 #Evidence of mob programming: 
 https://youtu.be/Kn7UoIK1Nb8
 
-#1 BDD & 10 J Unit tests that all pass: 
+#3 BDD & 30 J Unit tests that all pass:
+Screenshots can be found in the main branch. Code can be found in folder 'Test 1'.
 
 #Evidence of Sprint Review:
 https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_apps/hub/ms-devlabs.team-retrospectives.home
 
-#Link to working prototype: 
-
-
-#Sprint demo of backend: 
-
-
-#Sprint demo of frontend:
+#Sprint demo:
 
 
 #CI/CD: 
