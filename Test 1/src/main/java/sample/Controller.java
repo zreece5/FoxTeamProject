@@ -184,6 +184,100 @@ public class Controller {
         primaryStage.show();*/
     }
 
+    public void mmGameSelectionClick() throws Exception{
+        displayGameSelectionPage();
+    }
+
+    //Displays Game selection Page
+    public void displayGameSelectionPage() throws Exception{
+        /*System.out.println("Username And Login Match");
+        currentStage.hide();
+        Stage primaryStage = new Stage();
+        System.out.println("Step 1");
+        Parent root = FXMLLoader.load(getClass().getResource("view/GameSelection.fxml"));
+        System.out.println("step 2");
+        primaryStage.setTitle("Manage Friends and Groups");
+        System.out.println("Step 3");
+        primaryStage.setScene(new Scene(root, 600, 400));
+        primaryStage.show();*/
+    }
+
+    //Button Click Event for Start MatchMaking Home
+    public void mmStartMatchMakingClick() throws Exception{
+        displayStartMatchMakingHomePage();
+    }
+
+    //Displays Start Matchmaking Home Page
+    public void displayStartMatchMakingHomePage() throws Exception{
+        /*System.out.println("Username And Login Match");
+        currentStage.hide();
+        Stage primaryStage = new Stage();
+        System.out.println("Step 1");
+        Parent root = FXMLLoader.load(getClass().getResource("view/StartMatchmakingHome.fxml"));
+        System.out.println("step 2");
+        primaryStage.setTitle("Manage Friends and Groups");
+        System.out.println("Step 3");
+        primaryStage.setScene(new Scene(root, 600, 400));
+        primaryStage.show();*/
+    }
+
+    //Button Click Event for View Friends and Groups
+    public void mmViewFriendsGroupsClick() throws Exception{
+        displayViewFriendsGroupsPage();
+    }
+
+    //Displays View friends and Groups Page
+    public void displayViewFriendsGroupsPage() throws Exception{
+        /*System.out.println("Username And Login Match");
+        currentStage.hide();
+        Stage primaryStage = new Stage();
+        System.out.println("Step 1");
+        Parent root = FXMLLoader.load(getClass().getResource("view/viewFriendsGroups.fxml"));
+        System.out.println("step 2");
+        primaryStage.setTitle("Manage Friends and Groups");
+        System.out.println("Step 3");
+        primaryStage.setScene(new Scene(root, 245, 454));
+        primaryStage.show();*/
+    }
+
+    //Button Click Event for MatchMaking 1v1
+    public void mmMatchMaking1v1Click() throws Exception{
+        displayMatchMaking1v1Page();
+    }
+
+    //Displays 1v1 Matchmaking 1v1 Page
+    public void displayMatchMaking1v1Page() throws Exception{
+        /*System.out.println("Username And Login Match");
+        currentStage.hide();
+        Stage primaryStage = new Stage();
+        System.out.println("Step 1");
+        Parent root = FXMLLoader.load(getClass().getResource("view/Matchmaking1v1.fxml"));
+        System.out.println("step 2");
+        primaryStage.setTitle("Manage Friends and Groups");
+        System.out.println("Step 3");
+        primaryStage.setScene(new Scene(root, 600, 400));
+        primaryStage.show();*/
+    }
+
+    //Button Click Event for MatchMaking 3v3
+    public void mmMatchMaking3v3Click() throws Exception{
+        displayMatchMaking3v3Page();
+    }
+
+    //Displays 1v1 Matchmaking 1v1 Page
+    public void displayMatchMaking3v3Page() throws Exception{
+        /*System.out.println("Username And Login Match");
+        currentStage.hide();
+        Stage primaryStage = new Stage();
+        System.out.println("Step 1");
+        Parent root = FXMLLoader.load(getClass().getResource("view/Matchmaking3v3.fxml"));
+        System.out.println("step 2");
+        primaryStage.setTitle("Manage Friends and Groups");
+        System.out.println("Step 3");
+        primaryStage.setScene(new Scene(root, 600, 400));
+        primaryStage.show();*/
+    }
+
     //Saves Data from Edit Profile Page
     public void saveProfileEditData() {
 
