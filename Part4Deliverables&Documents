@@ -28,13 +28,13 @@ What is your impediment removal plan?
 #Evidence of mob programming: 
 https://youtu.be/Kn7UoIK1Nb8
 
-#3 BDD & 30 J Unit tests that all pass:
+#3 BDD & 36 J Unit tests that all pass:
 Screenshots can be found in the main branch. Code can be found in folder 'Test 1'.
 
 #Evidence of Sprint Review:
 https://dev.azure.com/rb-ksu/KSU-SPRING-19-ESEP/_apps/hub/ms-devlabs.team-retrospectives.home
 
-#Sprint demo:
+#Sprint demo: https://www.youtube.com/watch?v=VX2YRVJiJns&feature=youtu.be
 
 
 #CI/CD: 
